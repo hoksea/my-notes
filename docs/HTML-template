@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title> <!--Title here--> </title>
+  
+  <!--W3 CSS responsive-->
+          <link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+
+  <!-- Bootstrap responsive -->
+      <!--here see the bootstrap icon cheatsheet --- http://getbootstrap.com/components/  -->
+          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <!--Google font (change if necessary)-->
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poiret+One">
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+  <!--Font Awesome-->
+      <!--here see the font awesome icon cheatsheet --- http://fontawesome.io/icons/ -->
+      <!--W3school tutorial https://www.w3schools.com/icons/fontawesome_icons_intro.asp -->
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- jQuery -->
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!--back to the top css-->
+<style>
+  #back-to-top {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 1;
+        opacity: 0.8;
+  }
+</style>
+
+</head>
+
+<!--back to the top position-->
+<a name="top"></a>
+
+<!--back to the top icon-->
+<div id="back-to-top">
+    <a href="#top"><i class="fa fa-arrow-circle-up fa-3x"></i></a>
+</div>
+
+<body>
+
+<!--body here-->
+
+</body>
+</html>
