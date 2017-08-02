@@ -2,6 +2,7 @@
 `container-fluid`  >  `row`  >  `col-md-*`
 
 Those `col-md-*` inside each row * sum up must be 12. So that they will stay on the same row.
+In the `<div class="col-md-*"></div>`, create another `<div></div>`, and this div is the div that contain your actual content.
 
 EXAMPLE:
 ```html
