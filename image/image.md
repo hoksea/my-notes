@@ -1,1 +1,1 @@
-![Bootstrap grid](/bootstrapGrid.png)
+![Bootstrap grid](/bootstrapGrid.png "Bootstrap grid")
