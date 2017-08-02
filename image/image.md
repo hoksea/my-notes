@@ -1,7 +1,7 @@
 3 levels:
 `container-fluid`  >  `row`  >  `col-md-*`
 
-Those `col-md-*` inside each row * sum up must be 12.
+Those `col-md-*` inside each row * sum up must be 12. So that they will stay on the same row.
 
 EXAMPLE:
 ```html
