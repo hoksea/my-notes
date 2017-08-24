@@ -28,4 +28,8 @@ EXAMPLE:
 </div>  
 ```
 
-![Bootstrap grid](bootstrapGrid.png)
+EXAMPLE:
+![BootstrapGrid-example](./image/bootstrap_12grids-explain-example.png)
+
+
+![BootstrapGrid](./image/bootstrapGrid.png)
