@@ -5,6 +5,8 @@ Those `col-md-*` inside each row * sum up must be 12, then they will stay on the
 
 Inside the `<div class="col-md-*"></div>`, create another `<div></div>`, and your actual content will be put inside this `div`.
 
+![BootstrapGrid](/image/bootstrapGrid.png)
+
 EXAMPLE:
 ```html
 <div class="container-fluid">
@@ -28,8 +30,5 @@ EXAMPLE:
 </div>  
 ```
 
-EXAMPLE:
+ACTUAL EXAMPLE:
 ![BootstrapGrid-example](/image/bootstrap_12grids-explain-example.png)
-
-
-![BootstrapGrid](/image/bootstrapGrid.png)
