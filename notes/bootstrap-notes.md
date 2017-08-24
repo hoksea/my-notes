@@ -29,7 +29,7 @@ EXAMPLE:
 ```
 
 EXAMPLE:
-![BootstrapGrid-example](./image/bootstrap_12grids-explain-example.png)
+![BootstrapGrid-example](/image/bootstrap_12grids-explain-example.png)
 
 
-![BootstrapGrid](./image/bootstrapGrid.png)
+![BootstrapGrid](/image/bootstrapGrid.png)
