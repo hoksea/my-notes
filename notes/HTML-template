@@ -31,6 +31,9 @@
   <!-- vue.js -->
           <script src="https://unpkg.com/vue/dist/vue.js"></script>
           
+  <!-- AngularJS -->
+          <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>          
+          
 <!--back to the top css-->
 <style>
   #back-to-top {
